@@ -40,4 +40,4 @@ CREATE TABLE pictures (
 
 INSERT INTO users (name, age) VALUES ('Alex Park', 25), ('Scooby Doo', 3000), ('Courage Doge', 20), ('Sean Carter', 45), ('Jermaine Cole', 33), ('Scarlett Johansson', 34);
 
-INSERT INTO posts (poster_id, body) VALUES (1, 'I like to move it move it'), (2, 'Ruh-roh--RAGGY!!!'), (4, "I’m not a businessman, I’m a business, man!");
+INSERT INTO posts (poster_id, body) VALUES (1, 'I like to move it move it'), (2, 'Ruh-roh--RAGGY!!!'), (4, 'I''m not a businessman, I''m a business, man!');
